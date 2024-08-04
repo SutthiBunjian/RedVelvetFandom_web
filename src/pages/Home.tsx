@@ -8,7 +8,7 @@ const Home: React.FC = () => {
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit veniam
         similique quibusdam tenetur iure. Sed, nobis. Sapiente, suscipit sequi
         nostrum ducimus vitae beatae quod facilis odio. Ex voluptatibus laborum
-        impedit!
+        impedit!dshsdsijo
       </p>
     </div>
   );
